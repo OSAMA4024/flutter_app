@@ -1,16 +1,23 @@
-# whatsappui
+# Modern E-Commerce App UI  
 
-A new Flutter project.
+A sleek shopping interface built with Flutter featuring interactive product displays.  
 
-## Getting Started
+![App Screenshot](screenshots/preview.png)  
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- Interactive product details bottom sheet  
+- Size/color selection UI  
+- Responsive layout for all devices  
+- Custom animated buttons  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack  
+- Flutter 3.x  
+- Dart 3  
+- Material Design 3  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation  
+```bash
+git clone https://github.com/yourusername/modern-ecommerce-flutter-ui.git
+cd modern-ecommerce-flutter-ui
+flutter pub get
+flutter run
