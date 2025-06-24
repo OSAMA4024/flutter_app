@@ -2,7 +2,7 @@
 
 A sleek shopping interface built with Flutter featuring interactive product displays.  
 
-![App Screenshot](screenshots/preview.png)  
+
 
 ## ✨ Features  
 - Interactive product details bottom sheet  
